@@ -1,0 +1,9 @@
+{
+  "account":"EXB123456",
+  "venue":"TESTEX",
+  "stock":"FOOBAR",
+  "price":43,
+  "qty":422,
+  "direction":"buy",
+  "orderType":"limit"
+}

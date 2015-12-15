@@ -1,0 +1,54 @@
+{
+  "ok": true,
+  "venue": "TESTEX",
+  "symbol": "FOOBAR",
+  "ts": "2015-12-14T19:05:18.739523812Z",
+  "bids": [
+    {
+      "price": 234,
+      "qty": 100,
+      "isBuy": true
+    },
+    {
+      "price": 100,
+      "qty": 200,
+      "isBuy": true
+    },
+    {
+      "price": 100,
+      "qty": 200,
+      "isBuy": true
+    },
+    {
+      "price": 100,
+      "qty": 200,
+      "isBuy": true
+    },
+    {
+      "price": 100,
+      "qty": 200,
+      "isBuy": true
+    },
+    {
+      "price": 100,
+      "qty": 200,
+      "isBuy": true
+    },
+    {
+      "price": 100,
+      "qty": 200,
+      "isBuy": true
+    },
+    {
+      "price": 50,
+      "qty": 3333,
+      "isBuy": true
+    },
+    {
+      "price": 1,
+      "qty": 1,
+      "isBuy": true
+    }
+  ],
+  "asks": null
+}

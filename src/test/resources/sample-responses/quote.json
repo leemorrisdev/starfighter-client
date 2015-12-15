@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "symbol": "FOOBAR",
+  "venue": "TESTEX",
+  "bid": 2,
+  "ask": 3,
+  "bidSize": 200,
+  "askSize": 3,
+  "bidDepth": 299,
+  "askDepth": 207,
+  "last": 2,
+  "lastSize": 2,
+  "lastTrade": "2015-12-14T21:17:57.073572372Z",
+  "quoteTime": "2015-12-14T21:18:08.307123797Z"
+}
